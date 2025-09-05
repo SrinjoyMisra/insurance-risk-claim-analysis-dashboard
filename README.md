@@ -70,9 +70,10 @@ DAX (Data Analysis Expressions) – For calculated measures
 Excel / CSV – Data source for claims and policies
 
 
-👤 Author
+# 👤 Author
 
-# Srinjoy Misra
+Srinjoy Misra
 📧 [srinjoymisra71@gmail.com]
+
 🔗 [https://www.linkedin.com/in/srinjoy-misra-a96662330/]
 
